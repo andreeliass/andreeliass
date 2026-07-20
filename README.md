@@ -2,7 +2,7 @@
 <div style="display: inline_block">
 <img src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif" width="300px" align="right"/>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=27&letterSpacing=&pause=1000&color=00F706&background=FF000000&multiline=true&repeat=false&width=435&lines=%3C%2FAndr%C3%A9+Elias+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%3E" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=27&duration=2500&letterSpacing=&pause=1000&color=00F706&background=FF000000&multiline=true&repeat=false&width=435&lines=%3C%2FAndr%C3%A9+Elias+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%3E" alt="Typing SVG" /></a><br>
 <p align="left">
   <strong>🎓 Estudante de Ciência da Computação na <a href="https://portais.univasf.edu.br/">UNIVASF</a><br>
   📚 Atualmente me aprofundando em computação e desenvolvimento de software<br>
