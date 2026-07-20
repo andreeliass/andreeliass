@@ -1,22 +1,38 @@
-<center>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM0dm5xYTZ2eHRpdjY3dXR1N2U0eHZreGg1Z3ZybjhwbnFkamdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yvI7NjX9D8REJMTfQs/giphy.gif" width="500">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?letterSpacing=&pause=1000&color=00F706&background=FF000000&multiline=true&repeat=false&width=435&lines=Computer+Science+Student;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
-<div align="center">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
-  
-</div>
-  <div>
-    <br>
-       <a href="https://instagram.com/andreeliass" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </a> <a href="https://www.youtube.com/channel/UCkn_dJMgjWDHhPAtmaVhqNw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><br>
-  </center>
-</div>
+
+<div style="display: inline_block">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BhaTB2MHA2ejYxZTdkcWZrZDV1ZDB4M3Nxa3A0MWI5NTJxM2RvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/lNevOVN1SVnQ59Cy3H/giphy.gif" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"/>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=27&letterSpacing=&pause=1000&color=00F706&background=FF000000&multiline=true&repeat=false&width=435&lines=%3C%2FAndr%C3%A9+Elias+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%3E" alt="Typing SVG" /></a>
+  <h3>Estudante de Ciência da Computação na <a href="https://portais.univasf.edu.br/">UNIVASF</a></h3>
+</p>
+<p align="left">
+  <h1>➫ Linguagens</h1>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</p>
+<p align="left">
+  <h1>➫ Ferramentas</h1>
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</p>
+<p align="left">
+  <h1>➫ Interesses</h1>
+  <h3>Cibersegurança • Sistemas Operacionais • Engenharia Reversa</h3><br>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</p>
