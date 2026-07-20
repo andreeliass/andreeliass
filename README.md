@@ -10,7 +10,7 @@
   🚀 Sempre aprendendo, explorando e desenvolvendo...</strong><br><br>
 </p>
 <p align="left">
-  <h1>➫ Linguagens</h1>
+  <h1><img src="linguagem.svg" width="25"> Linguagens</h1>
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </p>
 <p align="left">
-  <h1>➫ Ferramentas</h1>
+  <h1><img src="ferramenta.svg" width="25"> Ferramentas</h1>
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </p>
 <p align="left">
-  <h1>➫ Interesses</h1>
+  <h1><img src="interesse.svg" width="25"> Interesses</h1>
   <h3>Cibersegurança • Sistemas Operacionais • Engenharia Reversa</h3><br>
 </p>
 <p align="left">
