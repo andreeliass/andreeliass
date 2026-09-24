@@ -18,7 +18,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
 </p>
 <p align="left">
   <h1><img src="ferramenta.svg" width="25"> Ferramentas</h1>
@@ -29,10 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" alt="android studio logo"  />
 </p>
 <p align="left">
   <h1><img src="interesse.svg" width="25"> Interesses</h1>
-  <h3>Cibersegurança • Sistemas Operacionais • Engenharia Reversa</h3><br>
+  <h3>Cibersegurança • Desenvolvimento mobile/desktop • Engenharia Reversa</h3><br>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
